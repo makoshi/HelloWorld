@@ -1,5 +1,4 @@
 # HelloWorld
-Just following the initial steps to learn this
 
 Hi everyone.
 Mak here.
